@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ricardo! 👋</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile/"></a>
+  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in"></a>
   <a href="mailto:youremail@example.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-%23C14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
 
