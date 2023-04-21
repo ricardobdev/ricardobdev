@@ -20,6 +20,11 @@
 
 <p align="center">Here are some of the technologies and tools I've been learning and working with recently.</p>
 
+<h2 align="center">Learning</h2>
+<p align="center">
+ <img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=Electron&logoColor=white">
+</p>
+
 <h2 align="center">Projects</h2>
 
 <p align="center">I'm currently working on some personal projects to showcase my skills and build my portfolio. Check back soon for updates!</p>
