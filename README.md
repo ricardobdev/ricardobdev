@@ -16,6 +16,7 @@
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=Tailwind-CSS&logoColor=white">
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
   <img alt="Express" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=Express&logoColor=white">
+  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte.js-000000?style=flat-square&logo=Svelte&logoColor=orange">
 </p>
 
 <p align="center">Here are some of the technologies and tools I've been learning and working with recently.</p>
